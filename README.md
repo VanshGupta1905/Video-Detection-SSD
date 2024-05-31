@@ -1,6 +1,6 @@
 ## Framework -Tensorflow
-## Library-Keras
-## Model-Centernet
+### Library-Keras
+### Model-Centernet
 
 Real-Time Object Detection for Video using CenterNet and SSD (TensorFlow/Keras)
 This project implements real-time object detection for video streams using the CenterNet architecture with SSD (Single Shot MultiBox Detector) for enhanced speed and accuracy.  It's built on TensorFlow with Keras, making it easy to deploy and adapt for a variety of applications, including self-driving cars.
