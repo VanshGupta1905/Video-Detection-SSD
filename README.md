@@ -26,7 +26,9 @@ Identify and track objects on assembly lines or in manufacturing processes.
 
 # Note
 The project is designed to be modular and extensible.
+
 Consider using a GPU for faster inference.
+
 Experiment with different model architectures and parameters to find the best fit for your specific application.
 
 
